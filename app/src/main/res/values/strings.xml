@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Github User Finder</string>
+    <string name="user_name">username</string>
+    <string name="id_user">id user</string>
+    <string name="search">search</string>
+    <string name="search_hint">Cari user github</string>
+</resources>
